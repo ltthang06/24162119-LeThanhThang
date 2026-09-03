@@ -1,0 +1,6 @@
+Kính gửi Thầy,
+
+Do ban đầu gặp lỗi xung đột khi đẩy bài, em đã lỡ chạy lệnh "git init" tạo kho mới trên máy rồi dùng "git push -u origin main --force" để ép đẩy code lên. Việc này khiến repository bị khởi tạo lại lịch sử commit và thay đổi mốc thời gian hiển thị. Điều đó làm cho em bị mất bài baitap02 và đã phải upload lại khiến cho muộn thời gian quy định.
+Tuy nhiên, em xin cam kết baitap2 đã được hoàn thành đúng trong thời gian quy định. 
+
+Em xin cảm ơn Thầy!
